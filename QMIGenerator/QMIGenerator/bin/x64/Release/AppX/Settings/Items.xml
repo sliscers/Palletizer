@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ITEMS>
+  <ITEM name="Tuna Can" width="20" length="20" weight="0.5" height="20"/>
+  <ITEM name="Salmon Can" width="20" length="20" weight="0.8" height="20"/>
+  <ITEM name="Lobster Can" width="20" length="20" weight="0.6" height="20"/>
+</ITEMS>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><PALLETS>
+  <PALLET name="EURO Pallet 420 x 320" width="420" length="320" maxweight="300" maxheight="300">
+  </PALLET>
+  <PALLET name="EURO Pallet 600 x 400" width="600" length="400" maxweight="350" maxheight="200">
+  </PALLET>
+  <PALLET name="EURO Pallet 400 x 350" width="400" length="350" maxweight="325" maxheight="250">
+  </PALLET>
+</PALLETS>

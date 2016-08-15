@@ -1,0 +1,1 @@
+C:\Users\Yoran\Desktop\QMI\QMIGenerator\QMIGenerator\QMIGenerator.csproj;x64

@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="QMIGenerator.PalletSettings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:QMIGenerator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:ConnectionId='1' x:Name="textBox" HorizontalAlignment="Left" Margin="84,116,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="732" Width="1755"/>
+
+    </Grid>
+</Page>
+

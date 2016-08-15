@@ -1,0 +1,1 @@
+C:\Users\Sliscers\Documents\GitHub\QMI\QMIGenerator\QMIGenerator\QMIGenerator.csproj;x86
